@@ -1,1 +1,3 @@
 Github on platvorm, et hallata oma koodiprojekti. Selles saab hoida silma peal muudatustes oma koodis ja teha dokumentatsiooni muudatustest. Seda kasutavad tarkvaraarendajad ja muud inimesed, kes soovivad oma projekte teistele jagada.
+
+Ma saan kasutada githubi, et oma isiklikke projekte avalikuks teha. Näiteks kui loon mingisuguse rakenduse.
