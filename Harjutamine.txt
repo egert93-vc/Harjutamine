@@ -1,1 +1,5 @@
 Github on platvorm, et hallata oma koodiprojekti. Selles saab hoida silma peal muudatustes oma koodis ja teha dokumentatsiooni muudatustest. Seda kasutavad tarkvaraarendajad ja muud inimesed, kes soovivad oma projekte teistele jagada.
+
+Ma saan kasutada githubi, et oma isiklikke projekte avalikuks teha. Näiteks kui loon mingisuguse rakenduse.
+
+Githubi esimese versiooni lõi Linux Torvaldis aastal 2005, sest tal oli vaja head versioonihaldus tarkvara. Hiljem tegid Tom Preston-Werner, Chris Wanstrath, Pj Hyett ja Scott Chacon aastal 2008 sellele korraliku ja kasutajasõbraliku kasutajaliidese mis võimaldas kõikidel seda kasutada. 
